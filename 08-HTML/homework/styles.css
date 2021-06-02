@@ -1,5 +1,51 @@
 
-    h1{color: yellow; background-color:red;}
-    img{width: 400px;}
-    div#thirdDiv{height: 600px; width: 500px; background-color: red; padding: 50px; border-width: 50px; border-color: yellow;}
-    span#spanId{font-size: 18px; margin: 50px;}
+    h1{
+        color: yellow; 
+        background-color:red;
+      }
+    img{
+        width: 400px;
+
+       }
+    #thirdDiv{
+        height: 600px;
+        width: 500px;
+        background-color: red;
+        padding: 50px;
+        border: 10px solid white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+            }
+    #spanId{
+        font-size: 18px;
+         margin: 50px;
+           }
+    body{
+        background-image: url(https://media.istockphoto.com/vectors/pizza-slice-seamless-pattern-hand-drawn-slices-of-pizza-colorful-on-vector-id1282721875?k=6&m=1282721875&s=170667a&w=0&h=_7wV66pG7pWy8ZllgG_lCXaq2CZa3NVhrCiI8FtooSc=);
+        }
+     h1{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+     h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+     h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#spanId{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
